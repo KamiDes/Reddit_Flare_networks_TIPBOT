@@ -1,5 +1,17 @@
 # Zbot
 
+
+
+Contract Credits go to https://gitlab.com/marcus.appelros/zbot 
+Made this reddit integration in golang for crypto Ethereum virtual machine supported trading on reddit 
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+**********************************************************************************************************************************************
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 Reddit Bot for the Flare network.
 
 Commands work on the title, body and comments of posts, Feel free to include a message after the commands but not before
