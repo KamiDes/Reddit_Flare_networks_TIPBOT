@@ -4,6 +4,7 @@
 
 Contract Credits go to https://gitlab.com/marcus.appelros/zbot 
 
+
 Made this reddit integration in golang for crypto Ethereum virtual machine supported trading on reddit 
 
 
